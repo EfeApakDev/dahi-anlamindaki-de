@@ -531,7 +531,7 @@ submitBtn.addEventListener('click', () => {
                 <h2>Tebrikler!</h2>
                 <div class="result-inner">
                     <p>
-                    ${quizLimit} sorunun tamamını doğru cevaplayarak Dahi Anlamındaki De Sertifikası kazandınız. 
+                    ${quizLimit} sorunun tamamını doğru cevaplayarak ATATÜRK MTAL Sertifikası kazandınız. 
                     </p>
                     <input type="text" id="name" name="name" placeholder="Ad Soyad">
                 </div>
