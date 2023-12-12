@@ -18,7 +18,7 @@ const quizData = [
         question: "Aşağıdaki cümlelerin hangisinde yazım yanlışı yapılmıştır?",
         a: "Siz de bizimle sinemaya gelmek ister misiniz?",
         b: "Annem de bu konuda benim kararımı destekliyor.",
-        c: "Ece de Esra ile aynı okula başlayacakmış.",
+        c: "Mete de Berat ile aynı okula başlayacakmış.",
         d: "Televizyonunda sesini kısarsanız iyi olur.",
         correct: "d",
     },
@@ -91,7 +91,7 @@ const quizData = [
         a: "Her kelimeyi ayrı yazayımda Türkçe biliyor sansınlar.",
         b: "Sen gidersen bende gelirim.",
         c: "Oysa yoğurtlu sosun da içimi ferahlatması gerekiyordu.",
-        d: "Sonun da Nişantaşı Üniversitesini kazandım.",
+        d: "Sonun da Hakkari Üniversitesini kazandım.",
         correct: "c",
     },
     {
@@ -187,7 +187,7 @@ const quizData = [
         a: "İyi hoşta sen neden bu işi yapmıyorsun?",
         b: "Dolandırıcılara on bin lira kaptırdı ama da ha akıllanmadı.",
         c: "Albayım da bizimle beraber geliyor.",
-        d: "Balayın da hangi otele gittiniz?",
+        d: "Hangi Hisseden aldiniz?",
         correct: "c",
     },
     {
@@ -221,7 +221,7 @@ const quizData = [
         c: "Sendeleme Brütüs!",
         d: "Sence de yanlış olmadı mı Brütüs?",
         correct: "a",
-        sender: "geyik_akademi"
+        sender: "-OKUL-"
     },
     {
         question: "Aşağıdakilerden hangisinde yazım yanlışı yoktur?",
@@ -230,7 +230,7 @@ const quizData = [
         c: "Düğün için de 200000 kredi çektim.",
         d: "Boşanınca çocuğumu hiç te göremedim.",
         correct: "c",
-        sender: "Adzo"
+        sender: "MEB"
     },
     {
         question: "Aşağıdakilerden hangisinde yazım yanlışı yoktur?",
@@ -307,15 +307,15 @@ const quizData = [
     {
         question: "Aşağıdakilerden hangisinde yazım yanlışı yoktur?",
         a: "Karadeniz de gemilerin mi battı?",
-        b: "Gemiler de talim var.",
+        b: "Fındık zamanı gelmş alacak mı sınız.",
         c: "Hastalık da ve sağlık da birlikte olalım.",
         d: "Eğitimsizim ama para bende.",
         correct: "d",
-        sender: "Curvaturamajor",
+        sender: "MEHMET METEHAN KEÇİLİ",
     },
     {
         question: "Aşağıdaki cümlelerin hangisinde yazım yanlışı yapılmıştır?",
-        a: "Ekşi Sözlük'te viral olduk iyi mi?",
+        a: " Denizli Sus özlükte viral olduk iyi mi?",
         b: "Yedi saatte yüz bin kişi sertifika almış.",
         c: "Bazı yazarlarda o soruda kesme işareti yok diye eleştirmiş.",
         d: "TDK kurum adlarına gelen eklerin yazım kurallarını değiştirdi.",
