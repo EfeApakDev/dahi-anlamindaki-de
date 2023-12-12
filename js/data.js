@@ -11,7 +11,7 @@ const quizData = [
         a: "Çiçekleride suladı.",
         b: "Bu dünya sana da bana da kalmaz.",
         c: "Bugün okulda eğlence var.",
-        d: "Pazardan sepet de almış.",
+        d: "Evleniyormuşsun bugün öyle diyorlar.",
         correct: "a",
     },
     {
@@ -64,7 +64,7 @@ const quizData = [
     },
     {
         question: "Aşağıdaki cümlelerin hangisinde yazım yanlışı yapılmıştır?",
-        a: "Ayşe kalemini bende unutmuş.",
+        a: "Cafer kalemini bende unutmuş.",
         b: "Yarınki geziye ben de geleceğim.",
         c: "Yüzündeki bende irileşme mi olmuş?",
         d: "Kitabın ben de, yarın getiririm.",
@@ -236,7 +236,7 @@ const quizData = [
         question: "Aşağıdakilerden hangisinde yazım yanlışı yoktur?",
         a: "Albayımda sabahları napalm kokusuna bayılır.",
         b: "Vals albayımında uzmanlık alanıdır.",
-        c: "Albaylarında kalbi kırılabilir.",
+        c: "mete kanka aselsan hissesi alsana.",
         d: "Şimdi sana da albayına da başlayacağım!",
         correct: "d",
         sender: "Oğuzhan Meriç"
@@ -296,13 +296,13 @@ const quizData = [
         sender: "TİLLEM",
     },
     {
-        question: "Aşağıdaki şarkı sözlerinin hangisinde yazım yanlışı vardır?",
+        question: "Aşağıdaki sözlerin (😐) hangisinde yazım yanlışı vardır?",
         a: "Sen de benim kadar gerçekleri biliyorsun.",
         b: "Umurum da değil seviyorum.",
         c: "Seni bu dünyada en çok kim sever?",
         d: "Gel sen ne çektiğimi bir de bana sor.",
         correct: "b",
-        sender: "Esra",
+        sender: "S💝",
     },
     {
         question: "Aşağıdakilerden hangisinde yazım yanlışı yoktur?",
@@ -315,7 +315,7 @@ const quizData = [
     },
     {
         question: "Aşağıdaki cümlelerin hangisinde yazım yanlışı yapılmıştır?",
-        a: " Denizli Sus özlükte viral olduk iyi mi?",
+        a: " Denizli Sözlükte viral olduk iyi mi?",
         b: "Yedi saatte yüz bin kişi sertifika almış.",
         c: "Bazı yazarlarda o soruda kesme işareti yok diye eleştirmiş.",
         d: "TDK kurum adlarına gelen eklerin yazım kurallarını değiştirdi.",
