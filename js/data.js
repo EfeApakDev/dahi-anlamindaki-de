@@ -81,7 +81,7 @@ const quizData = [
     {
         question: "Aşağıdaki cümlelerin hangisinde yazım yanlışı yapılmıştır?",
         a: "Cem de çok bozdu.",
-        b: "Şişli Etfal Hastanesindeki teyzeyi de gördüm.",
+        b: "Denizli Pamukkale Hastanesindeki teyzeyi de gördüm.",
         c: "Doktor maaşların da düzeltme olacak mı?",
         d: "İngilizce bilmeyen de kendine akademisyen demesin.",
         correct: "c",
@@ -239,7 +239,7 @@ const quizData = [
         c: "Albaylarında kalbi kırılabilir.",
         d: "Şimdi sana da albayına da başlayacağım!",
         correct: "d",
-        sender: "Anonim"
+        sender: "Oğuzhan Meriç"
     },
     {
         question: "Aşağıdakilerden hangisinde yazım yanlışı yoktur?",
@@ -248,16 +248,16 @@ const quizData = [
         c: "Hayat da en hakiki mürşit ilimdir.",
         d: "Hayat ta güzel ama bedeli var.",
         correct: "b",
-        sender: "Sıtkı Sıyrıl"
+        sender: "Efe Apak"
     },
     {
         question: "Aşağıdaki cümlelerin hangisinde yazım yanlışı yapılmıştır?",
         a: "Ben de özledim ben de. Resmin var şu an elimde.",
         b: "Ben suyumu kazandım da içtim.",
         c: "Yıllar ikimizden de çok şeyler götürmüş.",
-        d: "Dahi anlamındaki de sitesinin adminide çok yakışıklı.",
+        d: "Ataturk meslek lisesindeki tüm öğretmenler hoşgörülüdür.",
         correct: "d",
-        sender: "Yaşar Emre Doğru"
+        sender: "Yaşar"
     },
     {
         question: "Hangi cümlede birden fazla yazım yanlışı yapılmıştır?",
@@ -266,7 +266,7 @@ const quizData = [
         c: "Halbuki ne hayallerimiz vardı ikimizinde.",
         d: "Koltuk da otura otura bende senin gibi şişmanladım.",
         correct: "d",
-        sender: "ErdemK",
+        sender: "Lütfi Dikici",
     },
     {
         question: "Aşağıdakilerden hangisinde yazım yanlışı yoktur?",
@@ -275,7 +275,7 @@ const quizData = [
         c: "O dizi de en sevdiğim oyuncu oynuyor.",
         d: "Ben de seni çok özledim.",
         correct: "d",
-        sender: "Ferya",
+        sender: "Metehan Keçili",
     },
     {
         question: "Aşağıdaki cümlelerin hangisinde yazım yanlışı yoktur?",
@@ -284,7 +284,7 @@ const quizData = [
         c: "Bu yaz tatilide hemen geçiveriyor.",
         d: "Çokta umrumdaydı sanki.",
         correct: "b",
-        sender: "Erkan Ç",
+        sender: "Abdullah Kocakülah",
     },
     {
         question: "Aşağıdaki cümlelerin hangisinde yazım yanlışı yapılmıştır?",
@@ -293,7 +293,7 @@ const quizData = [
         c: "O ürünün içinde zararlı yağlar da var.",
         d: "Hangisinde katkı olmadığını söylede bilelim.",
         correct: "d",
-        sender: "Meyra",
+        sender: "TİLLEM",
     },
     {
         question: "Aşağıdaki şarkı sözlerinin hangisinde yazım yanlışı vardır?",
