@@ -56,7 +56,7 @@ const quizData = [
     },
     {
         question: "Aşağıdaki cümlelerin hangisinde yazım yanlışı yapılmıştır?",
-        a: "Yazdığı hikayeler bir dergide yayımlandı.",
+        a: "Ciğerimi deliveren aşkı görün."
         b: "İki yıl Galatasaray Lisesinde çalıştı.",
         c: "Şiire merakı ilkokulda başlamıştı.",
         d: "Çocuklar için sadece masal değil, şiirlerde yazdı.",
@@ -65,7 +65,7 @@ const quizData = [
     {
         question: "Aşağıdaki cümlelerin hangisinde yazım yanlışı yapılmıştır?",
         a: "Ayşe kalemini bende unutmuş.",
-        b: "Yarınki geziye ben de geleceğim.",
+        b: "Tutun Kolumdan beni Fas'a götürün.",
         c: "Yüzündeki bende irileşme mi olmuş?",
         d: "Kitabın ben de, yarın getiririm.",
         correct: "d",
@@ -81,7 +81,7 @@ const quizData = [
     {
         question: "Aşağıdaki cümlelerin hangisinde yazım yanlışı yapılmıştır?",
         a: "Cem de çok bozdu.",
-        b: "Şişli Etfal Hastanesindeki teyzeyi de gördüm.",
+        b: " Denizli Pamukkale Hastanesindeki teyzeyi de gördüm.",
         c: "Doktor maaşların da düzeltme olacak mı?",
         d: "İngilizce bilmeyen de kendine akademisyen demesin.",
         correct: "c",
@@ -91,7 +91,7 @@ const quizData = [
         a: "Her kelimeyi ayrı yazayımda Türkçe biliyor sansınlar.",
         b: "Sen gidersen bende gelirim.",
         c: "Oysa yoğurtlu sosun da içimi ferahlatması gerekiyordu.",
-        d: "Sonun da Nişantaşı Üniversitesini kazandım.",
+        d: "Sonun da Hakkari Üniversitesini kazandım.",
         correct: "c",
     },
     {
@@ -138,7 +138,7 @@ const quizData = [
         question: "Aşağıdaki cümlelerin hangisinde yazım yanlışı yapılmıştır?",
         a: "Gülşen de iyice abarttı.",
         b: "Ciddi ciddi gazete alıp da okuyan kaldı mı?",
-        c: "Paralel evrenler teorisinide biliyorum.",
+        c: "Atatürk Endüstri Meslek Lisesi Denizli'nin en iyi lisesidir.",
         d: "Hiçbiri.",
         correct: "c",
     },
@@ -255,9 +255,9 @@ const quizData = [
         a: "Ben de özledim ben de. Resmin var şu an elimde.",
         b: "Ben suyumu kazandım da içtim.",
         c: "Yıllar ikimizden de çok şeyler götürmüş.",
-        d: "Dahi anlamındaki de sitesinin adminide çok yakışıklı.",
+        d: "Atatürk Mtal öğretmenleri çok hoşgörülü.",
         correct: "d",
-        sender: "Yaşar Emre Doğru"
+        sender: "YÖNETİCİ / Bonus"
     },
     {
         question: "Hangi cümlede birden fazla yazım yanlışı yapılmıştır?",
@@ -266,7 +266,7 @@ const quizData = [
         c: "Halbuki ne hayallerimiz vardı ikimizinde.",
         d: "Koltuk da otura otura bende senin gibi şişmanladım.",
         correct: "d",
-        sender: "ErdemK",
+        sender: "EFE APAK",
     },
     {
         question: "Aşağıdakilerden hangisinde yazım yanlışı yoktur?",
@@ -275,7 +275,7 @@ const quizData = [
         c: "O dizi de en sevdiğim oyuncu oynuyor.",
         d: "Ben de seni çok özledim.",
         correct: "d",
-        sender: "Ferya",
+        sender: "APAK",
     },
     {
         question: "Aşağıdaki cümlelerin hangisinde yazım yanlışı yoktur?",
@@ -315,7 +315,7 @@ const quizData = [
     },
     {
         question: "Aşağıdaki cümlelerin hangisinde yazım yanlışı yapılmıştır?",
-        a: "Ekşi Sözlük'te viral olduk iyi mi?",
+        a: "Denizli Sözlük'te viral olduk iyi mi?",
         b: "Yedi saatte yüz bin kişi sertifika almış.",
         c: "Bazı yazarlarda o soruda kesme işareti yok diye eleştirmiş.",
         d: "TDK kurum adlarına gelen eklerin yazım kurallarını değiştirdi.",
